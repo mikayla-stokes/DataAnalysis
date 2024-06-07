@@ -1,0 +1,7 @@
+Cat Type,A,B,C,X,Y
+Gas Apparatus,0,0,0,1,0
+  Laser,0,2,5,3,4
+  Mig,23,10,27,3,2
+  Oxy Fuel,19,12,50,5,4
+  Thermal Spray,7,5,2,0,2
+  Tig,0,2,5,0,0
